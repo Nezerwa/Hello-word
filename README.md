@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Author1**
+👤 **Eligrand**
 
 - GitHub: [Nezerwa](https://github.com/settings/profile)
 - LinkedIn: [eligrand Nezerwa](https://www.linkedin.com/in/eligrand-nezerwa/)
