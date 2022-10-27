@@ -2,11 +2,11 @@
 
 # Hello-word Project
 
-> this is a simple project that microverse project I did to help me to understand :
-Create branches with different base branches.
-Understand the concept of version control.
-how linters are used in a real project
-.
+> this is a simple project  microverse project that I did to help me to understand :
+How to Create branches with different base branches,
+ the concept of version control,
+and how linters are used in a real project.
+
 
 
 ## Built With
