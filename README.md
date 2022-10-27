@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-
+*Eligrand*
 
 - GitHub: [@Nezerwa](https://https://github.com/Nezerwa)
 - LinkedIn: [eligrand Nezerwa](https://https://www.linkedin.com/in/eligrand-nezerwa/)
